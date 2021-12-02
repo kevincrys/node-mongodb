@@ -1,0 +1,16 @@
+{
+  "name": "kevinserve",
+  "version": "1.0.0",
+  "description": "meu servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "node mongo ",
+    "start": "node index "
+  },
+  "author": "kevincrys",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^3.0.10"
+  }
+}
